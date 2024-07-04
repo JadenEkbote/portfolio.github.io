@@ -1,15 +1,14 @@
-# Portfolio-Social Media Platforms (Youtube)
+# Portfolio-Social Media Platforms (Twitch)
 
-<dl>
-<dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
-<dt>Course Code</dt>
-<dd>23ECSE309</dd>
+## An APS take on TWITCH
+
 <dt>Name</dt>
 <dd>Jaden Ekbote</dd>
 <dt>University</dt>
 <dd>KLE Technological University, Hubballi-31</dd>
 </dl>
+
+
 
 * * *
 
