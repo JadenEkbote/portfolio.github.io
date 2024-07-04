@@ -1,4 +1,4 @@
-# Portfolio-Social Media Platforms Youtube.
+# Portfolio-Social Media Platforms (Youtube)
 
 <dl>
 <dt>Course Name</dt>
