@@ -25,7 +25,7 @@ Twitch started in June 2011 as a spin-off of Justin.tv, a general-interest strea
 
 #### Note: Click on the functionality to view it
 
-- [Search](./search_video.md)
+- [Video Search](./search_video.md)
 
 * * *
 
