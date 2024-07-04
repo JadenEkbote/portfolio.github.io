@@ -21,7 +21,8 @@
 
 ### Introduction
 
-![twitch](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/94354bf2-b2da-4624-8dc2-0f853d1fc12d)
+![twtich](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/3ec897d9-fba5-4807-b19f-d5cc979790cb)
+
 
 Twitch started in June 2011 as a spin-off of Justin.tv, a general-interest streaming platform. Created by Justin Kan and Emmett Shear, Twitch was designed to focus specifically on video game live streaming. Its immediate popularity among gamers led to rapid growth, making it a dominant force in the live streaming industry. In 2014, Amazon acquired Twitch for $970 million, further boosting its expansion and integration with other Amazon services.
 
