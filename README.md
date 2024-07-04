@@ -1,6 +1,7 @@
 # Portfolio-Social Media Platforms (Twitch)
 
-HERE IMAGE ADD 
+![Welcome](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/593897a0-c534-4de8-a012-abd1bcda337d)
+
 ## An APS take on TWITCH
 
 
