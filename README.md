@@ -1,9 +1,7 @@
 # Portfolio - Twitch
 
 
-
-<img src= https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/593897a0-c534-4de8-a012-abd1bcda337d width="200" height="200"/>
-
+![Welcome](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/ffc1938e-fbfb-482e-975b-2b5f57c2b495)
 
 
 ## An APS take on TWITCH
