@@ -16,7 +16,7 @@
 ![EatSure](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/f99267f3-cc18-4dff-8a65-09e91bf36737)
 
 
-An online food ordering system allows your business to accept and manage orders placed online for delivery or takeaway. Customers browse a digital menu, either on an app or website and place and pay for their order online. Venues will then receive the order details via their chosen online food ordering system and produce the order ready for delivery or customer pickup. [1](https://www.lightspeedhq.com.au/blog/what-are-online-food-ordering-systems-and-how-do-they-work/)
+An online food ordering system allows your business to accept and manage orders placed online for delivery or takeaway. Customers browse a digital menu, either on an app or website and place and pay for their order online. Venues will then receive the order details via their chosen online food ordering system and produce the order ready for delivery or customer pickup. [[1](https://www.lightspeedhq.com.au/blog/what-are-online-food-ordering-systems-and-how-do-they-work/)]
 
 EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-service restaurant chain serving wraps and rolls. Founded by Jaydeep Barman and Kallol Banerjee, it aimed to revolutionize food delivery with fast, affordable, and high-quality meals. Rebranded as EatSure, it now operates as a multi-brand food delivery service ensuring safety and hygiene. EatSure aggregates various food brands under one platform, offering diverse cuisines with strict quality control. The service emphasizes transparency in sourcing, preparation, and delivery, providing reliable and trustworthy food options.
 
