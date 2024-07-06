@@ -20,4 +20,4 @@ It does it based on Ranking with priotiry (Lowest number meaning the highest pri
 | QuickSort  | O(log(n)) | 
 | MergeSort  | O(n) | 
   
-Click Here, For implemnetation of QuickSort.
+[Click Here](https://github.com/JadenEkbote/DSA/blob/main/basic/quicksort.c), For implemnetation of QuickSort.
