@@ -28,7 +28,7 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 
 #### Note: Click on the functionality to view it
 
-- [Video Search](./search_video.md)
+- [Searching Food items](./search.md)
 
 * * *
 
