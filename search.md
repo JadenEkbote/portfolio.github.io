@@ -20,7 +20,7 @@ The above image shows the structure of the trie trees. However, Trie trees can s
 
 | Algorithm | Time complexity |
 |----------|----------|
-| Trie/Prefix Trees   | O(n*d)  | 
-| Radix Trees   | O(N * avgL)  | 
+| Trie/Prefix Trees   | O(N * avgL)   | 
+| Radix Trees   | O(n*d)  | 
 
 [Click Here](https://github.com/JadenEkbote/DSA/blob/main/trees/radix_trees.cpp), For the implmentation of radix tree.
