@@ -6,3 +6,8 @@ Binary search trees are a fundamental data structure, but their performance can 
 Whenever the user filters or sorts the menu the traversal is applied in the red-black tree that shows the sorted list of menu items and every time a rating changes the red-black tree updates the nodes, the instertion and deletion of menu items can also be maintained using red black tree so that it provides a balanaced tree at the end.
 
 ![Red black tree](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/4e96d7dd-2617-4457-83a4-46492880ecd9)
+
+
+### Time Complexity: O(log n), where n is the number of elements.
+
+### Space Complexity: O(n), where n is the number of elements.
