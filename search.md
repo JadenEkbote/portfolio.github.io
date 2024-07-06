@@ -14,13 +14,19 @@ The above image shows the structure of the trie trees. However, Trie trees can s
 ![Radix tree](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/0e005ad9-bf69-43cd-a6fd-2fb76ea26063)
 
 
-### Time Complexity Analysis:
+### Time & space Complexity Analysis:
 
 
 
 | Algorithm | Time complexity |
 |----------|----------|
-| Trie/Prefix Trees   | O(N * avgL)   | 
-| Radix Trees   | O(n*d)  | 
+| Trie/Prefix Trees (Search)  | O(N * avgL), where 'N' is the number of strings we want to insert in Trie and 'avgL' is the average length of 'N' strings | 
+| Radix Trees (Search)  | O(n)  | 
+
+
+| Algorithm | Space complexity |
+|----------|----------|
+| Trie/Prefix Trees (Search)  | O(alphabet_size * average key length * N) | 
+| Radix Trees (Search)  | O(N), where N is the total number of characters in all the stored strings.  | 
 
 [Click Here](https://github.com/JadenEkbote/DSA/blob/main/trees/radix_trees.cpp), For the implmentation of radix tree.
