@@ -9,4 +9,9 @@ It does it based on Ranking with priotiry (Lowest number meaning the highest pri
 
   ![mergesort](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/bc8b4632-2880-4440-a8e2-589ce5f81dfd)
 
+
+| Algorithm | Time complexity |
+|----------|----------|
+| QuickSort  | O(n*log(n))| 
+| MergeSort  | O(nLogn) | 
   
