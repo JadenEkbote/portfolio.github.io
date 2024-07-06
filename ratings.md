@@ -14,4 +14,10 @@ It does it based on Ranking with priotiry (Lowest number meaning the highest pri
 |----------|----------|
 | QuickSort  | O(n*log(n))| 
 | MergeSort  | O(nLogn) | 
+
+| Algorithm | Space complexity |
+|----------|----------|
+| QuickSort  | O(log(n)) | 
+| MergeSort  | O(n) | 
   
+Click Here, For implemnetation of QuickSort.
