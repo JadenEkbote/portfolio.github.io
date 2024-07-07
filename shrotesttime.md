@@ -7,3 +7,4 @@ In general, a Segment Tree is a very flexible data structure, and a huge number 
 
 One important property of Segment Trees is that they require only a linear amount of memory. The standard Segment Tree requires  _4n_  vertices for working on an array of size  _n_.
 Segment tree structure:
+<img width="452" alt="Screenshot 2024-07-07 at 3 39 39 PM" src="https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/e4318ace-6260-43a9-bb7a-b5bbf881f69c">
