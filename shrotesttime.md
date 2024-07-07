@@ -6,6 +6,4 @@ A Segment Tree is a data structure that stores information about array intervals
 In general, a Segment Tree is a very flexible data structure, and a huge number of problems can be solved with it. Additionally, it is also possible to apply more complex operations and answer more complex queries (see Advanced versions of Segment Trees). In particular the Segment Tree can be easily generalized to larger dimensions. For instance, with a two-dimensional Segment Tree you can answer sum or minimum queries over some subrectangle of a given matrix in only  _O(log^2 n)_ time.[[8](https://cp-algorithms.com/data_structures/segment_tree.html)]
 
 One important property of Segment Trees is that they require only a linear amount of memory. The standard Segment Tree requires  _4n_  vertices for working on an array of size  _n_.
-
 Segment tree structure:
-![sum-segment-tree](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/4d6002f6-aaf5-4154-a9ee-17cfd5677435)
