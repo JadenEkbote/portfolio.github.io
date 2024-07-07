@@ -1,3 +1,8 @@
-Order is one of the most important ascept in Online food delviery systems. In order tracking, estiamted time before the delivery plays a key role. The range query problem is efficiently managed by segment trees.
+Order tracking is one of the most important ascept in Online food delviery systems. In order tracking, estiamted time before the delivery plays a key role. Segment trees are data structures that are efficient at handling range query problems such as the meal prepration time by the restraunt, estimated delivery time, road conditions, weather conditions etc., hence, using segment trees we can provide real time data to the use.
 
-To track the time remaining for the order to be delivered at the destination we can use segment trees
+
+A Segment Tree is a data structure that stores information about array intervals as a tree. This allows answering range queries over an array efficiently, while still being flexible enough to allow quick modification of the array. This includes finding the sum of consecutive array elements  a[l......r] , or finding the minimum element in a such a range in  $O(\log n)$  time. Between answering such queries, the Segment Tree allows modifying the array by replacing one element, or even changing the elements of a whole subsegment (e.g. assigning all elements  $a[l \dots r]$  to any value, or adding a value to all element in the subsegment).
+
+In general, a Segment Tree is a very flexible data structure, and a huge number of problems can be solved with it. Additionally, it is also possible to apply more complex operations and answer more complex queries (see Advanced versions of Segment Trees). In particular the Segment Tree can be easily generalized to larger dimensions. For instance, with a two-dimensional Segment Tree you can answer sum or minimum queries over some subrectangle of a given matrix in only  $O(\log^2 n)$  time.
+
+One important property of Segment Trees is that they require only a linear amount of memory. The standard Segment Tree requires  $4n$  vertices for working on an array of size  $n$ .
