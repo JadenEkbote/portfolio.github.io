@@ -10,3 +10,9 @@ One important property of Segment Trees is that they require only a linear amoun
 Segment tree structure:
 
 <img width="452" alt="Screenshot 2024-07-07 at 3 39 39 PM" src="https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/e4318ace-6260-43a9-bb7a-b5bbf881f69c">
+
+### Time Complexity (Range Query): O(logn)
+
+### Space Complexity (Range Query): O(n)
+
+Click here, for implementation of segment tree for range query.
