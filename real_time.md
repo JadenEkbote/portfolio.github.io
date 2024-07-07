@@ -9,18 +9,17 @@ Where g(x) represents the cost to get to node x and h(x) represents the estimate
 
 The A* algorithm is implemented in a similar way to Dijkstra’s algorithm. Given a weighted graph with non-negative edge weights, to find the lowest-cost path from a start node S to a goal node G, two lists are used:
 - An open list, implemented as a priority queue, which stores the next nodes to be explored. Because this is a priority queue, the most promising candidate node (the one with the lowest value from the evaluation function) is always at the top. Initially, the only node in this list is the start node S.
--A closed list which stores the nodes that have already been evaluated. When a node is in the closed list, it means that the lowest-cost path to that node has been found.
+- A closed list which stores the nodes that have already been evaluated. When a node is in the closed list, it means that the lowest-cost path to that node has been found.
 
 To find the lowest cost path, a search tree is constructed in the following way:
 
--Initialize a tree with the root node being the start node S.
--Remove the top node from the open list for exploration.
--Add the current node to the closed list.
--Add all nodes that have an incoming edge from the current node as child nodes in the tree.
--Update the lowest cost to reach the child node.
-
--Compute the evaluation function for every child node and add them to the open list.
--Just like in Dijkstra’s algorithm, the lowest cost is updated as the algorithm progresses in the following way:
+- Initialize a tree with the root node being the start node S.
+- Remove the top node from the open list for exploration.
+- Add the current node to the closed list.
+- Add all nodes that have an incoming edge from the current node as child nodes in the tree.
+- Update the lowest cost to reach the child node.
+- Compute the evaluation function for every child node and add them to the open list.
+- Just like in Dijkstra’s algorithm, the lowest cost is updated as the algorithm progresses in the following way:
 
 current_lowest_cost = min(current_lowest_cost, parent_node_cost + edge_weight)
 
