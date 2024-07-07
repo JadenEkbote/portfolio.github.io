@@ -21,6 +21,6 @@ To find the lowest cost path, a search tree is constructed in the following way:
 - Compute the evaluation function for every child node and add them to the open list.
 - Just like in Dijkstra’s algorithm, the lowest cost is updated as the algorithm progresses in the following way:
 
-current_lowest_cost = min(current_lowest_cost, parent_node_cost + edge_weight)
+#### current_lowest_cost = min(current_lowest_cost, parent_node_cost + edge_weight)
 
 <img width="763" alt="a*search" src="https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/cfb968de-a65c-4f02-839e-301aa7049ee4">
