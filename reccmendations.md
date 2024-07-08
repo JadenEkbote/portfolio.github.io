@@ -14,3 +14,5 @@ All the children of a node have a common prefix of the string associated with th
 ### Time Complexity (Search):	O(N * avgL), where 'N' is the number of strings we want to insert in Trie and 'avgL' is the average length of 'N' strings
 
 ### Space Complexity: O(alphabet_size * average key length * N)
+
+[click here](https://github.com/JadenEkbote/DSA/blob/main/trees/trie.c), for the implementation of prefix tree.
