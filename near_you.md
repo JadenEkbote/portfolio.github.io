@@ -6,7 +6,7 @@ Searches involving a multidimensional search key (e.g. range searches and neares
 Creating point clouds.
 k-d trees are a special case of binary space partitioning trees.
 
-For geospatial restaurant detection, k-d trees are effective due to their efficient organization of spatial data, enabling rapid querying and proximity searches. By recursively partitioning the data space into nested half-spaces, k-d trees allow for quick location-based queries and nearest neighbor searches, which are essential for identifying nearby restaurants within a given range. Their adaptability to multidimensional data, such as coordinates, ensures optimal performance in handling large datasets, making them a robust choice for applications in geographic information systems (GIS) and location-based services.
+For geospatial restaurant detection, k-d trees are effective due to their efficient organization of spatial data, enabling rapid querying and proximity searches. By recursively partitioning the data space into nested half-spaces, k-d trees allow for quick location-based queries and nearest neighbor searches, which are essential for identifying nearby restaurants within a given range. Their adaptability to multidimensional data, such as coordinates, ensures optimal performance in handling large datasets, making them a robust choice for applications in geographic information systems (GIS) and location-based services [11].
 
 
 ![ktree_1](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/25936982-00b3-49bb-9ee3-b546afbab581)
