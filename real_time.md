@@ -28,4 +28,4 @@ To find the lowest cost path, a search tree is constructed in the following way:
 ### Time complexity: O(b^d), where b is the branching factor – the average number of edges from each node, and d is the number of nodes on the resulting path.
 ### Space complexity: O(b^d).
 
-Click here, to find the implementation of A* search.
+[Click here](https://github.com/JadenEkbote/DSA/blob/main/trees/astarsearch.c), to find the implementation of A* search.
