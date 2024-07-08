@@ -65,4 +65,7 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 [8] PsychzNetworks, "CDN and Load Balancer: Ultimate combination for efficient content delivery," PsychzNetworks, 2020. [Online]. Available: https://www.psychz.net/client/blog/en/cdn-and-load-balancer-ultimate-combination-for-efficient-content-delivery-.html. [Accessed: Jul. 08, 2024].
 
 [9] "Priority queue," Wikipedia, Jul. 6, 2024. [Online]. Available: https://en.wikipedia.org/wiki/Priority_queue. [Accessed: Jul. 08, 2024].
+
+[10] "HashMap in Java," Javatpoint. [Online]. Available: https://www.javatpoint.com/java-hashmap. [Accessed: Jul. 08, 2024].
+
 * * *
