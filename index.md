@@ -68,4 +68,6 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 
 [10] "HashMap in Java," Javatpoint. [Online]. Available: https://www.javatpoint.com/java-hashmap. [Accessed: Jul. 08, 2024].
 
+[11] "Wikipedia contributors," "K-d tree," Wikipedia, The Free Encyclopedia, Apr. 12, 2023. [Online]. Available: https://en.wikipedia.org/wiki/K-d_tree. [Accessed: Jul. 08, 2024].
+
 * * *
