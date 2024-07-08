@@ -4,3 +4,8 @@ handling that type of data such as user order history, user likes and dislikes a
 HashMap class implements the Map interface which allows us to store key and value pair, where keys should be unique. If you try to insert the duplicate key, it will replace the element of the corresponding key. It is easy to perform operations using the key index like updation, deletion, etc. It helps in storing and retrieving user profiles quickly, with each user's order history, likes, dislikes, and ratings.
 
 ![Hash Maps](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/eb2ff8ba-4ffe-4f4f-9b67-0854cf9d44e4)
+
+### Time Complexity: O(1) for insertion, deletion and lookup.
+
+### Space Complexity: O(n) for insertion, deletion and lookup.
+
