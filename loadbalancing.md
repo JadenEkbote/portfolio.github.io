@@ -10,6 +10,8 @@ The static approach to load balancing involves pre-determined distribution rules
 
 ![346354869-72fbef9f-9e96-4f8b-926a-94c1055ec858](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/20de99c9-a9fa-41e1-9d54-79750f7e8fca)
 
+A visualsation of how load balancing works [8].
+
 
 Using round-robin or weighted distribution as the default method during regular operations will help in implementing real-time monitoring and a greedy load balancing layer that activates during high-traffic events, such as sales, to manage spikes effectively.
 
