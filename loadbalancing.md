@@ -12,3 +12,5 @@ The static approach to load balancing involves pre-determined distribution rules
 
 
 Using round-robin or weighted distribution as the default method during regular operations will help in implementing real-time monitoring and a greedy load balancing layer that activates during high-traffic events, such as sales, to manage spikes effectively.
+
+[click here](https://github.com/JadenEkbote/DSA/blob/main/trees/greedy.c), to find implementation of weighted round robin with a greedy approach.
