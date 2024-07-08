@@ -33,7 +33,7 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 - [Menu sorting and ratings](./red_black.md)
 - [Ordering food on the train](./train_orders.md)
 - [Real time Order Tracking](./real_time.md)
-- [Restraunt rating and menu sorting](./red_black.md)
+- [Restraunt rating and sorting](./red_black.md)
 - [Restraunt Reccomndations](./reccmendations.md)
 - [Restraunts Near you](./near_you.md)
 - [Delivery Charges](./deliverycharges.md)
@@ -52,6 +52,15 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 
 [2] "K. Dam," What distinguishes a trie from a radix tree? LinkedIn, [Online]. Available: https://www.linkedin.com/advice/1/what-distinguishes-trie-from-radix-tree-skills-programming-kamdc. [Accessed: 08-Jul-2024].
 
-[3] 
+[3] J. Kyaw, "Radix Tree Data Structure," Medium, May 2, 2020. [Online]. Available: https://jtkyaw.medium.com/radix-tree-data-structure-640211ad3935. [Accessed: Jul. 08, 2024].
 
+[4] D. Parekh, "Sorting Algorithms: Slowest to Fastest," Built In, Dec. 14, 2022. [Online]. Available: https://builtin.com/machine-learning/fastest-sorting-algorithm. [Accessed: Jul. 8, 2024].
+
+[5] "GeeksforGeeks," Merge Sort, [Online]. Available: https://www.geeksforgeeks.org/merge-sort/. [Accessed: 08-Jul-2024].
+
+[6] "GeeksforGeeks," Introduction to Red-Black Tree. [Online]. Available: https://www.geeksforgeeks.org/introduction-to-red-black-tree/. [Accessed: 08-Jul-2024].
+
+[7] "TECHBREAUX", A Search*, Codecademy, Apr. 11, 2023. [Online]. Available: https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search. [Accessed: Jul. 08, 2024].
+
+[8] 
 * * *
