@@ -4,3 +4,8 @@ Load balancing is a critical technique for managing high customer traffic during
 
 ### Greedy Approach
 The greedy approach to load balancing involves dynamically distributing requests to the server that appears to be the least loaded at the moment of each request. This method operates on real-time information about server loads, making immediate decisions that aim to minimize the current maximum load across all servers. For instance, if EatSure experiences a surge in traffic during a flash sale, the load balancer will direct each incoming user request to the server with the current lowest load.
+
+### Static Approach
+The static approach to load balancing involves pre-determined distribution rules that do not change based on real-time server load. This can include methods such as round-robin, where each server is assigned requests in a fixed, cyclic order, or fixed-weight distribution, where requests are distributed based on predefined weights assigned to each server.
+
+Using round-robin or weighted distribution as the default method during regular operations will help in implementing real-time monitoring and a greedy load balancing layer that activates during high-traffic events, such as sales, to manage spikes effectively.
