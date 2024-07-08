@@ -62,5 +62,5 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 
 [7] "TECHBREAUX", A Search*, Codecademy, Apr. 11, 2023. [Online]. Available: https://www.codecademy.com/resources/docs/ai/search-algorithms/a-star-search. [Accessed: Jul. 08, 2024].
 
-[8] 
+[8] PsychzNetworks, "CDN and Load Balancer: Ultimate combination for efficient content delivery," PsychzNetworks, 2020. [Online]. Available: https://www.psychz.net/client/blog/en/cdn-and-load-balancer-ultimate-combination-for-efficient-content-delivery-.html. [Accessed: Jul. 08, 2024].
 * * *
