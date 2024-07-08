@@ -73,3 +73,7 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 [12] GeeksforGeeks, "Binary Indexed Tree or Fenwick Tree," GeeksforGeeks, Jun. 30, 2023. [Online]. Available: https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/. [Accessed: Jul. 08, 2024].
 
 * * *
+### Learnings and Takeaways:
+- Data structures are used in more places and are applied in more places than we know and think. The veristility and the efficiency they provide is unparlleled.
+- The right algorihtm is needed to bring out the best from the given problem.
+- Time and space complexities play a huge role in real world applications to determine what type of algorithm is needed.
