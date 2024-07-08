@@ -11,3 +11,5 @@ Whenever the user filters or sorts the menu the traversal is applied in the red-
 ### Time Complexity: O(log n), where n is the number of elements.
 
 ### Space Complexity: O(n), where n is the number of elements.
+
+[click here](https://github.com/JadenEkbote/DSA/blob/main/trees/redblack.c), for the implementation of red black tree.
