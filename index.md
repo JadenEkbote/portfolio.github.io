@@ -33,7 +33,7 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 - [Menu sorting and ratings](./red_black.md)
 - [Ordering food on the train](./train_orders.md)
 - [Real time Order Tracking](./real_time.md)
-- [Restraunt rating and sorting](./red_black.md)
+- [Restraunt sorting](./red_black.md)
 - [Restraunt Reccomndations](./reccmendations.md)
 - [Restraunts Near you](./near_you.md)
 - [Delivery Charges](./deliverycharges.md)
@@ -69,5 +69,7 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 [10] "HashMap in Java," Javatpoint. [Online]. Available: https://www.javatpoint.com/java-hashmap. [Accessed: Jul. 08, 2024].
 
 [11] "Wikipedia contributors," "K-d tree," Wikipedia, The Free Encyclopedia, Apr. 12, 2023. [Online]. Available: https://en.wikipedia.org/wiki/K-d_tree. [Accessed: Jul. 08, 2024].
+
+[12] GeeksforGeeks, "Binary Indexed Tree or Fenwick Tree," GeeksforGeeks, Jun. 30, 2023. [Online]. Available: https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/. [Accessed: Jul. 08, 2024].
 
 * * *
