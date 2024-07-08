@@ -9,3 +9,4 @@ HashMap class implements the Map interface which allows us to store key and valu
 
 ### Space Complexity: O(n) for insertion, deletion and lookup.
 
+[click here](https://github.com/JadenEkbote/DSA/blob/main/trees/hashmaps.c), for the implementation of hash maps
