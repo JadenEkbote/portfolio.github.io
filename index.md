@@ -47,4 +47,8 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 
 * * *
 
+### Refrences:
+[1] "Lightspeed HQ," *What are Online Food Ordering Systems and How Do They Work?* [Online]. Available: https://www.lightspeedhq.com.au/blog/what-are-online-food-ordering-systems-and-how-do-they-work/. [Accessed: 08-Jul-2024].
+[2] 
 
+* * *
