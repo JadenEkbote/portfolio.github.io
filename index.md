@@ -37,6 +37,12 @@ EatSure, originally known as Faasos, started in 2011 in Pune, India, as a quick-
 - [Restraunt Reccomndations](./reccmendations.md)
 - [Restraunts Near you](./near_you.md)
 - [Delivery Charges](./deliverycharges.md)
+- [Coustmer Service](./coustmerservice.md)
+- [Personalised Ad Reccomendations](./ad_reccomendations.md)
+- [Driver pathfinding](./Driver_routing.md)
+- [Managing Comments for Restruants](./restrauntcomments.md)
+- [Restraunt Ratings](./restaurant_ratings.md)
+- [Mangaing Coustmer traffic during sales](./loadbalancing.md)
 
 
 * * *
