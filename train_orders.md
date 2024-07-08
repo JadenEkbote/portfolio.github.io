@@ -11,3 +11,5 @@ Dijkstra's algorithm is a fundamental algorithm in computer science designed to 
 ### Time Complexity: O(V^2), Where V is the number of vertices.
 
 ### Space Complexity: O(E + V), where V is the number of vertices and E is the number of edges in the graph.
+
+[click here](https://github.com/JadenEkbote/DSA/blob/main/trees/dijkistras.c), for the implementation of dijkistras.
