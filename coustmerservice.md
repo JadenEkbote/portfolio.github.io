@@ -11,4 +11,4 @@ A priority queue is an abstract data type similar to a regular queue or stack ab
 
 ### Space Complexity: O(n), where n is the number of elements.
 
-Click here, For the implementation of Priority Queues.
+[Click here](https://github.com/JadenEkbote/DSA/blob/main/trees/priorityqueues.c), For the implementation of Priority Queues.
