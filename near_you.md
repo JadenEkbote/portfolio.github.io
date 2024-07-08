@@ -1,6 +1,6 @@
 Finding Restraunts near you is one Problem EatSure faces as it has to involve geographical statictics and coordinates into Picture.
 
-k-d tree (short for k-dimensional tree) is a space-partitioning data structure for organizing points in a k-dimensional space. K-dimensional is that which concerns exactly k orthogonal axes or a space of any number of dimensions.[1] k-d trees are a useful data structure for several applications, such as:
+k-d tree (short for k-dimensional tree) is a space-partitioning data structure for organizing points in a k-dimensional space. K-dimensional is that which concerns exactly k orthogonal axes or a space of any number of dimensions. k-d trees are a useful data structure for several applications, such as:
 
 Searches involving a multidimensional search key (e.g. range searches and nearest neighbor searches) &
 Creating point clouds.
