@@ -11,7 +11,8 @@ The above image shows the structure of the trie trees. However, Trie trees can s
 
 - **Radix Tree**: a radix tree (also radix trie or compact prefix tree or compressed trie) is a data structure that represents a space-optimized trie (prefix tree) in which each node that is the only child is merged with its parent. The result is that the number of children of every internal node is at most the radix r of the radix tree, where r is a positive integer and a power x of 2, having x ≥ 1.[[3](https://jtkyaw.medium.com/radix-tree-data-structure-640211ad3935)]
   
-![Radix tree](https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/0e005ad9-bf69-43cd-a6fd-2fb76ea26063)
+
+<img width="568" alt="Screenshot 2024-07-09 at 9 04 35 AM" src="https://github.com/JadenEkbote/portfolio.github.io/assets/97228905/e759ff4d-0ab0-47e3-b0e2-594e3865fda8">
 
 
 ### Time & space Complexity Analysis:
